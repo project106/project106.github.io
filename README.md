@@ -14,7 +14,7 @@
 	* [推荐标签](#featured-tags)
 	* [好友链接](#friends)
 	* [HTML5 演示文档布局](#keynote-layout)
-* 评论与 Google/Baidu Analytics
+* 评论
 	* [评论](#comment)
 * 高级部分
 	* [标题底图](#header-image)
