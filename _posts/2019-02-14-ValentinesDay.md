@@ -4,7 +4,7 @@ title:      Happy Valentine's Day
 subtitle:   My dear, happy Valentine's day!
 date:       2019-02-14
 author:     ZW
-header-img: img/post-bg-valentines.jpg
+header-img: img/home-bg-hand-darken.jpg
 catalog: true
 tags:
     - ZW
