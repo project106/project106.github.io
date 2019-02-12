@@ -1,0 +1,105 @@
+# Site settings
+title: Y&J's Secret Base
+SEOTitle: Y&J
+header-img: img/post-bg-desk.jpg
+email: project106ylzw@gmail.com
+description: "Let life be beautiful like summer flowers and death like autumn leaves."
+keyword: "Y&J, Y&J's Blog"
+url: "http://project106.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/project106/project106.github.io.git" # you code repository
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "Life finds its wealth by the claims of the world, and its worth by the claims of love."
+sidebar-avatar: /img/about-bg.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+
+# SNS settings
+RSS: false
+# weibo_username:     Demo
+# zhihu_username:     Demo
+github_username:    project106
+# facebook_username:  Demo
+# jianshu_username:   Demo
+# twitter_username:   Demo
+
+
+
+
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate]
+
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+
+
+
+# 评论系统
+# Disqus（https://disqus.com/）
+# disqus_username: qiubaiying
+
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: c857aca4278a70f1120c                            #生成的clientID
+  clientSecret: cd6797ec53a220185a627df3b9f52329d8cec3fe    #生成的clientSecret
+  repo: project106.github.io    #仓库名称
+  owner: project106    #github用户名
+  admin: project106
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
+
+# 统计
+
+# Analytics settings
+# Baidu Analytics
+# ba_track_id: 
+
+# Google Analytics
+# ga_track_id:            # Format: UA-xxxxxx-xx
+# ga_domain:              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+
+
+
+
+
+# Featured Tags
+featured-tags: true                     # 是否使用首页标签
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+
+# Friends
+friends: [
+    {
+        title: "Instagram",
+        href: "https://www.instagram.com/liuyan1009/"
+    }
+]
