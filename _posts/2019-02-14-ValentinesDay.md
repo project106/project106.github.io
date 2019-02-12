@@ -7,7 +7,7 @@ author:     ZW
 header-img: img/post-bg-valentines.jpg
 catalog: true
 tags:
-    - Blog
+    - ZW
     - Valentine's Day
 ---
 
