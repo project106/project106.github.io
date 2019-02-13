@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Happy Valentine's Day
-subtitle:   My dear, happy Valentine's day!
+subtitle:   ❤️
 date:       2019-02-14
 author:     ZW
 header-img: img/home-bg-hand-darken.jpg
