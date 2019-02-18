@@ -60,6 +60,18 @@ tags:
 ---
 
 ```
+##### 上传照片
+
+项目照片统一托管于/img文件夹下，点击Upload files上传文件，文中根据两类不同方式进行引用(注意文件格式: jpg或者jpeg等)。
+
+当图片用于背景栏时，使用如下路径：
+```
+header-img: img/example.jpg
+```
+当图片用于文中时，使用如下路径：
+```
+![](https://raw.githubusercontent.com/project106/project106.github.io/master/img/example.jpg)
+```
 
 ### 侧边栏
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
