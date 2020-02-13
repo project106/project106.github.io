@@ -13,7 +13,7 @@ tags:
 ---
 
 <video controls="">
-  <source src="video/valentinesDayVideo.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/project106/project106.github.io/master/video" type="video/mp4">
 </video>
 
 亲爱的 **Yan**,
