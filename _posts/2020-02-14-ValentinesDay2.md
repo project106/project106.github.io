@@ -4,7 +4,7 @@ title:      Happy Valentine's Day v2.0
 subtitle:   ❤️
 date:       2020-02-14
 author:     ZW
-header-img: img/home-bg-hand-darken.jpg
+header-img: img/post-bg-giftcard-darken.jpg
 catalog: true
 tags:
     - ZW
